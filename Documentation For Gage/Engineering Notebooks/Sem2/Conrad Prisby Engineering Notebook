@@ -1,0 +1,51 @@
+Conrad Prisby
+Engineering Notebook
+
+Date: January 11, 2024
+Objective: Meet with Professor
+Summary:
+Returning from break, our team convened in the auditorium to meet with professors and discuss outcomes and expectations for the upcoming semester. Reflecting on the past semester, we shared insights on what went well and areas needing improvement. Anticipating our group meeting next week, we look forward to diving into discussions about our upcoming projects.
+
+Date: January 16, 2024
+Objective: Assign Tasks
+Summary: 
+Met up with the group today and figured out when everyone was available this upcoming semester. Also started to work on the product vision and determined what roles will be what.
+
+Date: January 25, 2024
+Objective: Research
+Summary:
+We found many different microblaze tutorials that would help us setup the sdk and soft cpu. Each task was assigned based on these tutorials as well.
+
+Date: January 30, 2024
+Objective: Begin Task
+Summary:
+Jack and I started working on setting up the microblaze and starting to write code through the sdk to the fpga board. We were able to generate a bitstream but that was all for the day.
+
+Date: February 1, 2024
+Objective: Start Working on Sprint 4 Presentation
+Summary:
+As a group, we started to work on the powerpoint and figuring out what to include in the presentation.
+
+Date: February 3, 2024
+Objective: Finish Setting up SDK
+Summary: 
+I finished setting up the sdk through the microblaze and was able to setup gpio requests through the board. I was able to turn on LEDs using switches with code that was written in C.
+
+Date: February 6, 2024
+Objective: Finalize Presentation
+Summary:
+Finished the powerpoint and started practicing who was doing what slides to make sure our presentation goes smoothly.
+
+Date: February 8, 2024
+Objective: Present
+Summary:
+We presented in front of the class about what we worked on in the past sprint and what we will work on in the future. 
+
+Date: February 13, 2024
+Objective: Plan out next sprint
+Summary: 
+Gathering as a team during class time, we collaboratively discussed the forward trajectory. The plan involves integrating components into the FPGA code and enhancing the functionality of our webpage.
+
+
+
+
